@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Omondy
-- 👀 I’m interested in PHP,JavaScript and python 
-- 🌱 I’m currently learning PHP
+- 👀 I’m interested in DevOps,JavaScript and python 
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on website projects
 - 📫 How to reach me solomonomondi71@gmail.com
 
